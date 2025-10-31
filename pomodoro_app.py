@@ -13,7 +13,6 @@ import streamlit as st
 # ----------------------------
 st.set_page_config(page_title="Pomodoro Timebox", page_icon="🍅", layout="centered")
 st.title("🍅 Pomodoro Timebox")
-st.caption("Versión para la nube (sin sonidos ni notificaciones).")
 
 # ----------------------------
 # Estado inicial
